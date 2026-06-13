@@ -9,10 +9,10 @@ export default function Footer() {
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "48px", marginBottom: "48px" }}>
           <div>
             <p style={{ fontFamily: "var(--font-display)", fontSize: "24px", fontStyle: "italic", color: "var(--color-cream)", marginBottom: "12px" }}>
-              Brew &amp; Co
+              Ram&apos;s Brew &amp; Co
             </p>
             <p style={{ fontFamily: "var(--font-body)", fontSize: "14px", color: "var(--color-steam)", lineHeight: 1.7, maxWidth: "240px" }}>
-              A cosy neighbourhood coffee shop in the heart of Brooklyn. Specialty coffee, fresh pastries, and good people.
+              Ram&apos;s cosy neighbourhood coffee shop in the heart of Brooklyn. Specialty coffee, fresh pastries, and good people.
             </p>
           </div>
           <div>

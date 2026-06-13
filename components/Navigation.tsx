@@ -26,7 +26,7 @@ export default function Navigation() {
           textDecoration: "none",
           letterSpacing: "-0.01em",
         }}>
-          Brew &amp; Co
+          Ram&apos;s Brew &amp; Co
         </Link>
 
         {/* Desktop links */}

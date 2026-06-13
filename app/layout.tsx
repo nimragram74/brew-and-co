@@ -18,7 +18,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Brew & Co — Specialty Coffee in Brooklyn",
+  title: "Ram's Brew & Co — Specialty Coffee in Brooklyn",
   description: "A cosy neighbourhood coffee shop in Brooklyn specialising in specialty coffee, fresh pastries, and light lunches.",
 };
 
