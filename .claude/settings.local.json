@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(claude plugin install frontend-design)",
+      "WebFetch(domain:dribbble.com)",
+      "PowerShell(Start-Process \"http://localhost:3000\")",
+      "Edit(/.claude/skills/image-optimiser/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Udemy\\brew-and-co\\.claude\\skills"
+    ]
+  }
+}

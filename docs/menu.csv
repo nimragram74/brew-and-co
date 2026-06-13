@@ -1,0 +1,26 @@
+category,name,description,price,popular
+Coffee,Espresso,Rich and bold single shot of our house blend,3.50,false
+Coffee,Double Espresso,Two shots of our signature espresso blend,4.00,false
+Coffee,Flat White,Velvety microfoam milk with a double ristretto,4.50,true
+Coffee,Cappuccino,Equal parts espresso, steamed milk and thick foam,4.50,true
+Coffee,Latte,Smooth espresso with silky steamed milk,4.75,true
+Coffee,Cortado,Equal parts espresso and warm milk to reduce acidity,4.00,false
+Coffee,Cold Brew,Slow-steeped for 18 hours for a smooth finish,5.00,true
+Coffee,Oat Milk Latte,Our classic latte made with creamy oat milk,5.25,true
+Tea,English Breakfast,Classic full-bodied black tea with milk,3.50,false
+Tea,Earl Grey,Fragrant black tea with bergamot orange,3.50,false
+Tea,Matcha Latte,Ceremonial grade matcha with steamed oat milk,5.50,true
+Tea,Chamomile,Soothing floral herbal tea,3.25,false
+Pastries,Butter Croissant,Flaky and golden baked fresh every morning,3.75,true
+Pastries,Almond Croissant,Buttery croissant filled with almond cream,4.25,true
+Pastries,Blueberry Muffin,Bursting with fresh blueberries and a crumbly top,3.50,false
+Pastries,Banana Bread,Moist and lightly spiced banana loaf,3.75,true
+Pastries,Cinnamon Roll,Soft and gooey with a vanilla cream cheese glaze,4.50,true
+Light Lunch,Avocado Toast,Sourdough with smashed avocado, chilli flakes and lemon,9.00,true
+Light Lunch,Smoked Salmon Bagel,Cream cheese, smoked salmon, capers and red onion,11.50,true
+Light Lunch,Chicken Pesto Panini,Grilled chicken, sun-dried tomatoes and basil pesto,10.00,false
+Light Lunch,Tomato Soup,Roasted tomato and basil soup served with sourdough,8.50,false
+Light Lunch,Caesar Salad,Romaine, parmesan, croutons and house Caesar dressing,9.50,false
+Extras,Extra Shot,Add an extra espresso shot to any drink,0.75,false
+Extras,Oat Milk Swap,Swap to oat, almond or soy milk,0.50,false
+Extras,Vanilla Syrup,Add a pump of house-made vanilla syrup,0.50,false
