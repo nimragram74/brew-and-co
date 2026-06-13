@@ -23,7 +23,7 @@ export default function HomePage() {
         />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(28,15,10,0.4) 0%, rgba(28,15,10,0.65) 100%)" }} />
         <div style={{ position: "relative", textAlign: "center", maxWidth: "820px", padding: "0 24px" }}>
-          <p style={{ fontFamily: "var(--font-body)", fontSize: "12px", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--color-caramel)", marginBottom: "20px" }}>
+          <p style={{ fontFamily: "var(--font-body)", fontSize: "18px", fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#ffffff", marginBottom: "20px", textShadow: "0 2px 8px rgba(0,0,0,0.5)" }}>
             Ram&apos;s Brew &amp; Co · Gachibowli, Hyderabad
           </p>
           <h1 style={{ fontFamily: "var(--font-display)", fontSize: "clamp(48px, 8vw, 88px)", fontStyle: "italic", fontWeight: 700, color: "var(--color-foam)", lineHeight: 1.1, marginBottom: "24px", letterSpacing: "-0.02em" }}>
